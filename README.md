@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lll0905
-- 👀 I’m interested in Devops
-- 🌱 I’m currently learning flutter，rust and typescript
+- 👀 I’m interested in Devops and Rust
+- 🌱 I’m currently learning go，rust and typescript
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...lll0905@qq.com
 
